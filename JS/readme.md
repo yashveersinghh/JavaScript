@@ -1,0 +1,34 @@
+-word vs keyword
+-var const let
+--the difference
+--window object
+--browser context api
+--stack
+--heap memory
+--Execution context
+--Lexical environment
+-hoisting
+-types in js
+--how to copy reference values
+-conditionals
+--truthy and fasly
+--switch case
+-loops
+-for while
+--for-each for-in do-while
+-functions
+--callback functions
+--what is first class function
+-arrays
+-push pop shift unshift splice
+-- how arrays are made behind the scenes
+-- why we can make negative indexes arrays in js
+-- practice questions and scenarios
+-objects
+-prop vs method
+-updating object properties
+--how to delete object properties
+
+
+ADVANCE TOPICS:-
+---high order functions
